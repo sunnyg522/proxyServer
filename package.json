@@ -1,0 +1,18 @@
+{
+  "name": "proxy-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.2",
+    "nodemon": "^1.4.1",
+    "request": "^2.61.0",
+    "through": "^2.3.8",
+    "yargs": "^3.19.0"
+  }
+}
